@@ -23,7 +23,7 @@ allLink.forEach(function (item) {
 
 //TYPED
 var typed3 = new Typed('.typed', {
-    strings: ["Bonjour, je m'appelle David Guillin, je suis actuellement en reconversion en 2ème année de Bachelor à MY DIGITAL SCHOOL.<br>Passionné par le développement,je travaille avec acharnement dans le seul but d'atteindre mon objectif: <br>DEVENIR DEVELOPPEUR!"],
+    strings: ["Bonjour, je m'appelle David Guillin et je suis actuellement en reconversion en 2ème année de Bachelor à MY DIGITAL SCHOOL.<br>Passionné par le développement, je travaille avec acharnement dans le seul but d'atteindre mon objectif : <br>DEVENIR DEVELOPPEUR !"],
     typeSpeed: 40,
     backSpeed: 0,
     showCursor: false,
