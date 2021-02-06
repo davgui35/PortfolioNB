@@ -1,13 +1,10 @@
-#presentation #bloc-right .fullname p,
-#presentation #bloc-right .fullname h1,
-#presentation aside .numero_page p {
+#presentation #bloc-right .fullname p, #presentation #bloc-right .fullname h1, #presentation aside .numero_page p {
   margin: 0;
   font-size: 4rem;
   text-transform: uppercase;
 }
 
-#section-parallax h2,
-#section-skills h2 {
+#section-parallax h2, #section-skills h2 {
   font-size: 2rem;
   color: #ececec;
   text-transform: uppercase;
@@ -43,26 +40,17 @@
   width: 100%;
 }
 
-.skills-graphisme img,
-.skills-web img,
-.skills-front img,
-.skills-back img {
+.skills-graphisme img, .skills-web img, .skills-front img, .skills-back img {
   background-color: #558780;
   width: 35px;
 }
 
-.skills-graphisme,
-.skills-web,
-.skills-front,
-.skills-back {
+.skills-graphisme, .skills-web, .skills-front, .skills-back {
   border: 2px solid #558780;
   margin: 5px;
 }
 
-.skills-graphisme:hover,
-.skills-web:hover,
-.skills-front:hover,
-.skills-back:hover {
+.skills-graphisme:hover, .skills-web:hover, .skills-front:hover, .skills-back:hover {
   border: 2px solid #36b475;
   margin: 5px;
 }
@@ -643,15 +631,15 @@ footer .links-network ul .fa:hover {
     margin: 25px 0px 25px 25px;
   }
   #section-skills .skills-back,
-  #section-skills .skills-front,
-  #section-skills .skills-graphisme,
-  #section-skills .skills-web {
+#section-skills .skills-front,
+#section-skills .skills-graphisme,
+#section-skills .skills-web {
     margin: 35px 0px 25px 25px;
   }
   #section-skills .skills-back article p:nth-child(3),
-  #section-skills .skills-front article p:nth-child(3),
-  #section-skills .skills-graphisme article p:nth-child(3),
-  #section-skills .skills-web article p:nth-child(3) {
+#section-skills .skills-front article p:nth-child(3),
+#section-skills .skills-graphisme article p:nth-child(3),
+#section-skills .skills-web article p:nth-child(3) {
     max-width: 90%;
     text-align: left;
   }
