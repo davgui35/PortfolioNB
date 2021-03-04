@@ -41,8 +41,7 @@
 }
 
 .skills-graphisme img, .skills-web img, .skills-front img, .skills-back img {
-  background-color: #558780;
-  width: 35px;
+  width: 45px;
 }
 
 .skills-graphisme, .skills-web, .skills-front, .skills-back {
@@ -384,7 +383,6 @@ header {
 .container-logo .logo-projects {
   width: 35px;
   margin: 5px;
-  background-color: #558780;
   border-radius: 5px;
 }
 
